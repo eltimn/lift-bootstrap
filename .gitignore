@@ -1,0 +1,9 @@
+# Lines starting with '#' are considered comments.
+.DS_Store
+.cache/
+Thumbs.db
+
+# sbt
+target/
+lib_managed/
+project/
